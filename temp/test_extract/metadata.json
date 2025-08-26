@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "createdAt": "2025-08-17T12:21:45.606Z",
+  "createdBy": "admin",
+  "totalCollections": 9,
+  "collections": [
+    {
+      "name": "customers",
+      "label": "مشتریان"
+    },
+    {
+      "name": "operators",
+      "label": "اپراتورها"
+    },
+    {
+      "name": "services",
+      "label": "سرویس‌ها"
+    },
+    {
+      "name": "categories",
+      "label": "دسته‌بندی‌ها"
+    },
+    {
+      "name": "sessions",
+      "label": "جلسات"
+    },
+    {
+      "name": "settings",
+      "label": "تنظیمات"
+    },
+    {
+      "name": "activityLogs",
+      "label": "لاگ‌های فعالیت"
+    },
+    {
+      "name": "passwordResets",
+      "label": "بازنشانی رمز عبور"
+    },
+    {
+      "name": "userSessions",
+      "label": "جلسات کاربری"
+    }
+  ]
+}

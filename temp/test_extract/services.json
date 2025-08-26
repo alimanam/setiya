@@ -1,0 +1,32 @@
+{
+  "collection": "services",
+  "label": "سرویس‌ها",
+  "count": 2,
+  "exportedAt": "2025-08-17T12:21:46.082Z",
+  "data": [
+    {
+      "_id": "68a1c81fae3744d40b545427",
+      "name": "موز",
+      "type": "unit-based",
+      "price": 4555,
+      "description": "",
+      "category": "خوردنی",
+      "isActive": true,
+      "createdAt": "2025-08-17T12:16:31.209Z",
+      "updatedAt": "2025-08-17T12:16:31.209Z",
+      "__v": 0
+    },
+    {
+      "_id": "68a1c82eae3744d40b54542c",
+      "name": "بازی هیجانی",
+      "type": "time-based",
+      "price": 3000,
+      "description": "",
+      "category": "بازی",
+      "isActive": true,
+      "createdAt": "2025-08-17T12:16:46.738Z",
+      "updatedAt": "2025-08-17T12:16:46.738Z",
+      "__v": 0
+    }
+  ]
+}

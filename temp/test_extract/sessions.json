@@ -1,0 +1,77 @@
+{
+  "collection": "sessions",
+  "label": "جلسات",
+  "count": 2,
+  "exportedAt": "2025-08-17T12:21:46.455Z",
+  "data": [
+    {
+      "_id": "68a1c7dfae3744d40b5453e1",
+      "customerId": "68a1c7cfae3744d40b5453bb",
+      "customerName": "رضا باقری",
+      "customerPhone": "۳۲۴۲۳۴",
+      "status": "completed",
+      "totalCost": 54110,
+      "startTime": "2025-08-17T12:15:27.407Z",
+      "services": [
+        {
+          "serviceId": "68a1c81fae3744d40b545427",
+          "serviceName": "موز",
+          "serviceType": "unit-based",
+          "price": 4555,
+          "quantity": 2,
+          "startTime": "2025-08-17T12:17:42.840Z",
+          "totalCost": 9110,
+          "isPaused": false,
+          "totalPausedDuration": 0,
+          "_id": "68a1c866ae3744d40b545461"
+        },
+        {
+          "serviceId": "68a1c82eae3744d40b54542c",
+          "serviceName": "بازی هیجانی",
+          "serviceType": "time-based",
+          "price": 3000,
+          "quantity": 1,
+          "startTime": "2025-08-17T12:03:00.000Z",
+          "endTime": "2025-08-17T12:18:11.545Z",
+          "duration": 15,
+          "totalCost": 45000,
+          "isPaused": false,
+          "totalPausedDuration": 0,
+          "_id": "68a1c86cae3744d40b545468"
+        }
+      ],
+      "createdAt": "2025-08-17T12:15:27.409Z",
+      "updatedAt": "2025-08-17T12:18:11.546Z",
+      "__v": 3,
+      "completedByOperator": "admin",
+      "endTime": "2025-08-17T12:18:11.545Z"
+    },
+    {
+      "_id": "68a1c836ae3744d40b54544b",
+      "customerId": "68a1c7c8ae3744d40b5453b5",
+      "customerName": "علی دخیل",
+      "customerPhone": "۲۲۳۴",
+      "status": "active",
+      "totalCost": 21000,
+      "startTime": "2025-08-17T12:16:54.752Z",
+      "services": [
+        {
+          "serviceId": "68a1c82eae3744d40b54542c",
+          "serviceName": "بازی هیجانی",
+          "serviceType": "time-based",
+          "price": 3000,
+          "quantity": 1,
+          "startTime": "2025-08-17T12:10:00.000Z",
+          "totalCost": 21000,
+          "isPaused": false,
+          "totalPausedDuration": 0,
+          "_id": "68a1c83eae3744d40b545451",
+          "duration": 7
+        }
+      ],
+      "createdAt": "2025-08-17T12:16:54.753Z",
+      "updatedAt": "2025-08-17T12:17:34.280Z",
+      "__v": 1
+    }
+  ]
+}

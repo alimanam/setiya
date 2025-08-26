@@ -1,0 +1,32 @@
+{
+  "collection": "operators",
+  "label": "اپراتورها",
+  "count": 2,
+  "exportedAt": "2025-08-17T12:21:45.860Z",
+  "data": [
+    {
+      "_id": "689cabfab050291b0ee59e4c",
+      "username": "admin",
+      "password": "$2b$12$5Z23a8vVMZvrRrh4bJ6u2uZtR9JAPTkogIpFS.LCnwcVDIr7wOTF6",
+      "email": "alimanam@gmail.com",
+      "firstName": "علی",
+      "lastName": "دخیل زاده",
+      "role": "admin",
+      "createdAt": "2025-08-13T15:15:06.615Z",
+      "updatedAt": "2025-08-16T09:39:28.638Z",
+      "__v": 0
+    },
+    {
+      "_id": "68a1c8b4ae3744d40b5454b7",
+      "username": "sepideh",
+      "password": "$2b$12$dGDJ2JSZjr7/kqvYFC5s1enmWaqIm6cUI0Ypr79zcDv4TUuQHRUai",
+      "email": "sepi@gmail.com",
+      "firstName": "سپیده",
+      "lastName": "صحرایی",
+      "role": "admin",
+      "createdAt": "2025-08-17T12:19:00.593Z",
+      "updatedAt": "2025-08-17T12:19:00.593Z",
+      "__v": 0
+    }
+  ]
+}

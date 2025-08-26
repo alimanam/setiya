@@ -1,0 +1,47 @@
+{
+  "collection": "userSessions",
+  "label": "جلسات کاربری",
+  "count": 3,
+  "exportedAt": "2025-08-17T12:21:47.149Z",
+  "data": [
+    {
+      "_id": "68a1c3ddae3744d40b545322",
+      "userId": "689cabfab050291b0ee59e4c",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODljYWJmYWIwNTAyOTFiMGVlNTllNGMiLCJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzU1NDMxOTAxLCJleHAiOjE3NTYwMzY3MDF9.5Ts_ttg44TUxBwjaQ_GqhBb3pA1fr_wmU6eEFJsEjPM",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "ipAddress": "::1",
+      "isActive": true,
+      "expiresAt": "2025-08-18T11:58:21.968Z",
+      "lastAccessedAt": "2025-08-17T12:21:42.920Z",
+      "createdAt": "2025-08-17T11:58:21.969Z",
+      "updatedAt": "2025-08-17T12:21:42.920Z",
+      "__v": 0
+    },
+    {
+      "_id": "68a1c7b1ae3744d40b545396",
+      "userId": "689cabfab050291b0ee59e4c",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODljYWJmYWIwNTAyOTFiMGVlNTllNGMiLCJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzU1NDMyODgxLCJleHAiOjE3NTYwMzc2ODF9.9XHpGz8ocEaEoqOalSD3wAH4aSyFyeulvpGyPP_RQwA",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Trae/1.100.3 Chrome/132.0.6834.210 Electron/34.5.1 Safari/537.36",
+      "ipAddress": "::1",
+      "isActive": true,
+      "expiresAt": "2025-08-18T12:14:41.131Z",
+      "lastAccessedAt": "2025-08-17T12:19:09.360Z",
+      "createdAt": "2025-08-17T12:14:41.131Z",
+      "updatedAt": "2025-08-17T12:19:09.360Z",
+      "__v": 0
+    },
+    {
+      "_id": "68a1c8f0ae3744d40b5454dd",
+      "userId": "689cabfab050291b0ee59e4c",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODljYWJmYWIwNTAyOTFiMGVlNTllNGMiLCJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzU1NDMzMjAwLCJleHAiOjE3NTYwMzgwMDB9.7NV0w1i1T9hqTlgp4f1OTJ-deEbkSVWJnEW4cCFYkOM",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Trae/1.100.3 Chrome/132.0.6834.210 Electron/34.5.1 Safari/537.36",
+      "ipAddress": "::1",
+      "isActive": true,
+      "expiresAt": "2025-08-18T12:20:00.470Z",
+      "lastAccessedAt": "2025-08-17T12:21:16.491Z",
+      "createdAt": "2025-08-17T12:20:00.470Z",
+      "updatedAt": "2025-08-17T12:21:16.491Z",
+      "__v": 0
+    }
+  ]
+}
